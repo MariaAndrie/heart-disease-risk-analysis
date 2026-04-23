@@ -26,7 +26,7 @@ In this project, I analyzed patient-level clinical data to:
 
 ## Dataset
 
-The dataset contains **303 patient records** and **14 attributes**, including demographic and clinical variables.
+The dataset contains 303 patient records and 14 attributes, including demographic and clinical variables.
 
 ### Features
 
@@ -43,7 +43,7 @@ The dataset contains **303 patient records** and **14 attributes**, including de
 - `slope` — slope of the peak exercise ST segment  
 - `ca` — number of major vessels colored by fluoroscopy  
 - `thal` — thalassemia category  
-- `target` — heart disease status (**0 = Diseased, 1 = Healthy**)  
+- `target` — heart disease status (0 = Diseased, 1 = Healthy)  
 
 ## Project Workflow
 
@@ -62,7 +62,7 @@ The dataset contains **303 patient records** and **14 attributes**, including de
 
 ### 3. Modeling
 - split data into training and test sets  
-- trained a **Logistic Regression** model  
+- trained a Logistic Regression model  
 - generated predictions on test data  
 - evaluated results using a confusion matrix  
 
