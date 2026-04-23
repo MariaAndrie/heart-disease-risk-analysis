@@ -117,9 +117,7 @@ heart-disease-risk-analysis/
 ├── dashboards/
 │ ├── tableau_dashboard_1.png
 │ └── tableau_dashboard_2.png
-└── images/
-├── confusion_matrix.png
-├── feature_importance.png
+
 ```
 
 ## Tools & Technologies
