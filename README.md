@@ -110,7 +110,8 @@ heart-disease-risk-analysis/
 ├── README.md
 ├── requirements.txt
 ├── data/
-│ └── data.xlsx
+│ ├── data.xlsx
+│ └── variable_description.xlsx
 ├── notebooks/
 │ └── heart_disease_analysis.ipynb
 ├── dashboards/
