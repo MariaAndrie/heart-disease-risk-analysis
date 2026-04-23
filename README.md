@@ -85,10 +85,10 @@ The dataset contains 303 patient records and 14 attributes, including demographi
 
 Confusion matrix:
 
-
+```
 [[25, 4],
 [ 3, 29]]
-
+```
 
 Approximate accuracy: **88.5%**
 
@@ -105,7 +105,7 @@ Included:
 
 ## Repository Structure
 
-
+```
 heart-disease-risk-analysis/
 ├── README.md
 ├── requirements.txt
@@ -119,7 +119,7 @@ heart-disease-risk-analysis/
 └── images/
 ├── confusion_matrix.png
 ├── feature_importance.png
-
+```
 
 ## Tools & Technologies
 
