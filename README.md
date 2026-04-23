@@ -108,7 +108,6 @@ Included:
 ```
 heart-disease-risk-analysis/
 ├── README.md
-├── requirements.txt
 ├── data/
 │ ├── data.xlsx
 │ └── variable_description.xlsx
@@ -132,11 +131,9 @@ heart-disease-risk-analysis/
 
 ## Future Improvements
 
-- add preprocessing pipeline (scaling, feature engineering)  
-- compare multiple models  
-- include additional evaluation metrics (ROC-AUC, precision, recall)  
-- improve feature interpretation  
-- publish interactive Tableau dashboard  
+- try additional models
+- improve model evaluation
+- create an interactive Tableau dashboard 
 
 ## Disclaimer
 
