@@ -23,8 +23,8 @@ Identify key clinical factors associated with heart disease and build a baseline
 
 ## Model Performance
 
-* Logistic Regression baseline model
-* Accuracy: ~88.5%
+* Logistic Regression baseline model  
+* Achieved ~88.5% accuracy, providing a strong baseline for classification
 
 ## Visualization
 
