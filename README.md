@@ -28,10 +28,9 @@ Identify key clinical factors associated with heart disease and build a baseline
 
 ## Visualization
 
-Tableau dashboards highlight:
+Tableau dashboards are used to clearly compare diseased vs healthy patients 
+and highlight key risk patterns across variables.
 
-* differences between diseased and healthy patients
-* key clinical variables and patterns
 
 ## Dataset
 
