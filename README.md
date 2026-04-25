@@ -1,6 +1,6 @@
 # Heart Disease Risk Analysis
 
-A portfolio project focused on exploratory data analysis, baseline classification, and Tableau dashboarding for heart disease risk analysis using patient clinical data.
+This project analyzes clinical patient data to identify key risk factors associated with heart disease and support data-driven risk assessment..
 
 ## Objective
 
