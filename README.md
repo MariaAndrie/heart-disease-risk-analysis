@@ -31,6 +31,10 @@ Identify key clinical factors associated with heart disease and build a baseline
 Tableau dashboards are used to clearly compare diseased vs healthy patients 
 and highlight key risk patterns across variables.
 
+### Dashboard preview
+
+![Heart Disease Risk Dashboard 1](dashboards/tableau_dashboard_1.png)
+![Heart Disease Risk Dashboard 2](dashboards/tableau_dashboard_2.png)
 
 ## Dataset
 
